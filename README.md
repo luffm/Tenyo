@@ -1,5 +1,10 @@
 <p align="right"><a href="https://luffm.github.io/Jigsaw-Puzzles/">Jigsaw Puzzles</a></p>
 
+## The Scream (Edvard Munch)
+2026-05-05<br>
+![The Scream](images/2025-05-05-The_Scream.jpg)
+<br>1000 pieces
+
 ## Lightning Flash / Thunderclap
 2024-07-14<br>
 ![Lightning Flash](images/2024-07-14-Lightning_Flash.jpg)
